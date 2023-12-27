@@ -22,7 +22,7 @@ by
 
 %% Print the name of the author
 {\makeatletter
-\largetitlestyle\fontsize{25}{25}\selectfont\@author
+\largetitlestyle\fontsize{25}{25}\selectfont\@author 
 \makeatother}
 
 \bigskip
@@ -42,7 +42,7 @@ by
     Instructor: & I. Surname \\
     Teaching Assistant: & I. Surname \\
     Project Duration: & Month, Year - Month, Year \\
-    Faculty: & Faculty of Aerospace Engineering, Delft
+    Faculty: & Departement Informatik, Ostschweizer Fachhochschule OST \\
 \end{tabular}
 
 \bigskip
@@ -50,18 +50,18 @@ by
 
 %% Add a source and description for the cover and optional attribution for the template
 \begin{tabular}{p{15mm}p{10cm}}
-    Cover: & Canadarm 2 Robotic Arm Grapples SpaceX Dragon by NASA under CC BY-NC 2.0 (Modified) \\
+    Cover: & Crew-2 Return Mission by SpaceX under CC BY-NC 2.0 (Modified) \\
     % Feel free to remove the following attribution, it is not required - still appreciated :-)
-    Style: & TU Delft Report Style, with modifications by Daan Zwaneveld
+    Style: & OST Report Style, with modifications by Nico Fehr
 \end{tabular}
 
-\end{center}
-
-%% Insert the TU Delft logo at the bottom of the page
-\begin{tikzpicture}[remember picture, overlay]
+%% Insert the OST logo at the bottom of the page
+\begin{tikzpicture}
     \node[above=10mm] at (current page.south) {%
-        \includegraphics{figures/logo-black}
+      \includegraphics[width=0.35\linewidth]{layout/ost/ost-logo-de}
     };
 \end{tikzpicture}
+
+\end{center}
 
 \end{titlepage}
