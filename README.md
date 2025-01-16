@@ -1,6 +1,6 @@
 # OST × LaTeX - Report/Thesis Template
 
-This template aims to simplify and improve the (Xe)LaTeX report/thesis template by OST Ostschweizer Fachhochschule with the following three main design principles:
+This template aims to add a (Xe)LaTeX report/thesis template by [OST Ostschweizer Fachhochschule](https://www.ost.ch/) with the following three main design principles:
 
 * **Simplicity First:** A class file that has been reduced by nearly 70% to simplify customization;
 * **Effortless:** A careful selection of common packages to get started immediately;
