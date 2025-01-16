@@ -23,5 +23,6 @@ The bibliography has been set up in `report.tex` to allow for easy customization
 *→ Visit https://norukh.github.io/report/ for the full documentation.*
 
 ## License
+This report/thesis template is based on the code of Daan Zwaneveld. Visit [https://github.com/dzwaneveld/tudelft-report-thesis-template](https://github.com/dzwaneveld/tudelft-report-thesis-template) to see the original project.
 
 This [report/thesis template](https://github.com/norukh/ost-report-template) by Nico Fehr is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). No attribution is required in PDF outputs created using this template.
